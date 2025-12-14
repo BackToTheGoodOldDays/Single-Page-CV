@@ -1,0 +1,1 @@
+Use the extension Go Live in VSCode or open file directly.
